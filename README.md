@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/SanketKumarKar/Leet-Code/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SanketKumarKar/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanketKumarKar/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SanketKumarKar/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SanketKumarKar/Leet-Code/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanketKumarKar/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SanketKumarKar/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SanketKumarKar/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SanketKumarKar/Leet-Code/tree/master/0242-valid-anagram) |
 ## Sliding Window
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SanketKumarKar/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SanketKumarKar/Leet-Code/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
