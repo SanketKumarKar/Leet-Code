@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/SanketKumarKar/Leet-Code/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SanketKumarKar/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SanketKumarKar/Leet-Code/tree/master/0169-majority-element) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SanketKumarKar/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SanketKumarKar/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Tree
 |  |
