@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/SanketKumarKar/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SanketKumarKar/Leet-Code/tree/master/0066-plus-one) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanketKumarKar/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/SanketKumarKar/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SanketKumarKar/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanketKumarKar/Leet-Code/tree/master/0217-contains-duplicate) |
