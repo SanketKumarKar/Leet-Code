@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SanketKumarKar/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SanketKumarKar/Leet-Code/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SanketKumarKar/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SanketKumarKar/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SanketKumarKar/Leet-Code/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SanketKumarKar/Leet-Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
