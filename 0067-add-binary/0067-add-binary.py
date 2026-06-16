@@ -19,5 +19,5 @@ class Solution:
 		    
 		    i-=1
 		    j-=1
-	    # reverse ans ans return and remove leading zeros
+	    # reverse ans(kyuki res mai append kiya tha) and return and remove leading zeros
 	    return ''.join(ans[::-1]).lstrip('0') or '0' #leftsrip 
