@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SanketKumarKar/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanketKumarKar/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0274-h-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SanketKumarKar/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SanketKumarKar/Leet-Code/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/SanketKumarKar/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SanketKumarKar/Leet-Code/tree/master/0214-shortest-palindrome) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
