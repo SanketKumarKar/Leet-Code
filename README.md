@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SanketKumarKar/Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SanketKumarKar/Leet-Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SanketKumarKar/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SanketKumarKar/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SanketKumarKar/Leet-Code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SanketKumarKar/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SanketKumarKar/Leet-Code/tree/master/0242-valid-anagram) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SanketKumarKar/Leet-Code/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SanketKumarKar/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
