@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SanketKumarKar/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0274-h-index) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanketKumarKar/Leet-Code/tree/master/0169-majority-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -184,4 +186,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0274-h-index) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
