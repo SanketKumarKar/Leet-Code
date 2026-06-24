@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0274-h-index) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0435-non-overlapping-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanketKumarKar/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tree
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SanketKumarKar/Leet-Code/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0274-h-index) |
+| [0435-non-overlapping-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/SanketKumarKar/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
