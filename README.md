@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SanketKumarKar/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SanketKumarKar/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SanketKumarKar/Leet-Code/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/SanketKumarKar/Leet-Code/tree/master/0066-plus-one) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SanketKumarKar/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/SanketKumarKar/Leet-Code/tree/master/0067-add-binary) |
 ## Heap (Priority Queue)
 |  |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SanketKumarKar/Leet-Code/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
