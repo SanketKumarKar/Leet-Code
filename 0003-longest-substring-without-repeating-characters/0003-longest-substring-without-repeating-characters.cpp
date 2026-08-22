@@ -1,18 +1,22 @@
 class Solution {
-public:
-    int lengthOfLongestSubstring(string s) {
-        unordered_set<char> st; //sliding window concept
-        int l=0;
-        int r=0;
-        int maxL = 0;
-        for(r; r<s.size(); r++){
-            while(st.count(s[r])){
-                st.erase(s[l]);
-                l++;
+  public:
+    int lengthOfLongestSubstring(string &s) {
+        // code here
+        int count = 0;
+        string temp ="";
+        int n = s.size();
+        int ans = 0;
+        
+        for(char x : s){
+            
+            while(temp.find(x)!=string::npos){ // shrink window  till that repeat char
+                temp.erase(0,1); // 0th pos se 1 char remove
             }
-            st.insert(s[r]);
-            maxL = max(maxL, r-l+1);   
+            
+            temp +=x; // add the curr char in the window
+            ans = max(ans, (int)temp.size()); // keep max ans
         }
-        return maxL;
+        
+        return ans;
     }
 };
