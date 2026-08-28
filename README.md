@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SanketKumarKar/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanketKumarKar/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0274-h-index) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0435-non-overlapping-intervals) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SanketKumarKar/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0724-find-pivot-index) |
 ## Stack
