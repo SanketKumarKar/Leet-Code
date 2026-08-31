@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanketKumarKar/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SanketKumarKar/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SanketKumarKar/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SanketKumarKar/Leet-Code/tree/master/0054-spiral-matrix) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SanketKumarKar/Leet-Code/tree/master/0075-sort-colors) |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanketKumarKar/Leet-Code/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
