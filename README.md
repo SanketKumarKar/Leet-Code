@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
+| [1051-height-checker](https://github.com/SanketKumarKar/Leet-Code/tree/master/1051-height-checker) |
 | [1539-kth-missing-positive-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanketKumarKar/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SanketKumarKar/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SanketKumarKar/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1051-height-checker](https://github.com/SanketKumarKar/Leet-Code/tree/master/1051-height-checker) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanketKumarKar/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SanketKumarKar/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/SanketKumarKar/Leet-Code/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0047-permutations-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SanketKumarKar/Leet-Code/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
