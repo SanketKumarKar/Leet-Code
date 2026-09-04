@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SanketKumarKar/Leet-Code/tree/master/1051-height-checker) |
 | [1539-kth-missing-positive-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanketKumarKar/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SanketKumarKar/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SanketKumarKar/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SanketKumarKar/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/SanketKumarKar/Leet-Code/tree/master/1108-defanging-an-ip-address) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SanketKumarKar/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
 | ------- |
