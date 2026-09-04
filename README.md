@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SanketKumarKar/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/SanketKumarKar/Leet-Code/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SanketKumarKar/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0056-merge-intervals) |
@@ -309,8 +310,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/SanketKumarKar/Leet-Code/tree/master/0051-n-queens) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/SanketKumarKar/Leet-Code/tree/master/1051-height-checker) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SanketKumarKar/Leet-Code/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
