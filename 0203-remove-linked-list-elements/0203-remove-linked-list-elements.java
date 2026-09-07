@@ -16,8 +16,8 @@ class Solution {
         ListNode temp = head;
         while(temp!=null && temp.next!=null){
             if(temp.next.val==val)
-            temp.next=temp.next.next;
-            else temp=temp.next;
+            temp.next=temp.next.next; // agar next wala val ke barabar ho remove the link
+            else temp=temp.next; // warna ek node aage 
         } return head;
     }
 }
