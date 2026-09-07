@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SanketKumarKar/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanketKumarKar/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SanketKumarKar/Leet-Code/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/SanketKumarKar/Leet-Code/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SanketKumarKar/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0238-product-of-array-except-self) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SanketKumarKar/Leet-Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SanketKumarKar/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/SanketKumarKar/Leet-Code/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SanketKumarKar/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SanketKumarKar/Leet-Code/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Union-Find
 |  |
@@ -338,4 +341,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SanketKumarKar/Leet-Code/tree/master/0037-sudoku-solver) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SanketKumarKar/Leet-Code/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SanketKumarKar/Leet-Code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SanketKumarKar/Leet-Code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SanketKumarKar/Leet-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
