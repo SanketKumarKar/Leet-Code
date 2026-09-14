@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SanketKumarKar/Leet-Code/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SanketKumarKar/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/SanketKumarKar/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanketKumarKar/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
@@ -370,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SanketKumarKar/Leet-Code/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SanketKumarKar/Leet-Code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
