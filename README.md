@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SanketKumarKar/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SanketKumarKar/Leet-Code/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/SanketKumarKar/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SanketKumarKar/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SanketKumarKar/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanketKumarKar/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/SanketKumarKar/Leet-Code/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/SanketKumarKar/Leet-Code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/SanketKumarKar/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/SanketKumarKar/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/SanketKumarKar/Leet-Code/tree/master/1108-defanging-an-ip-address) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SanketKumarKar/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/SanketKumarKar/Leet-Code/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/SanketKumarKar/Leet-Code/tree/master/0412-fizz-buzz) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
