@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/SanketKumarKar/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/SanketKumarKar/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/SanketKumarKar/Leet-Code/tree/master/1051-height-checker) |
 | [1539-kth-missing-positive-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanketKumarKar/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanketKumarKar/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/SanketKumarKar/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanketKumarKar/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0611-valid-triangle-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0611-valid-triangle-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/SanketKumarKar/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanketKumarKar/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SanketKumarKar/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SanketKumarKar/Leet-Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SanketKumarKar/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/SanketKumarKar/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SanketKumarKar/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
