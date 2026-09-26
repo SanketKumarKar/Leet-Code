@@ -14,7 +14,7 @@ class Solution {
                 if(nums[l] == 0){
                     z--;
                 }
-                l++;
+                l++; // window choti karo tabtak zabtak zeros > k
             }
 
             ans = Math.max(ans, r-l+1);
