@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanketKumarKar/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SanketKumarKar/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanketKumarKar/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanketKumarKar/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/SanketKumarKar/Leet-Code/tree/master/0037-sudoku-solver) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SanketKumarKar/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SanketKumarKar/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanketKumarKar/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SanketKumarKar/Leet-Code/tree/master/0042-trapping-rain-water) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SanketKumarKar/Leet-Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0056-merge-intervals) |
