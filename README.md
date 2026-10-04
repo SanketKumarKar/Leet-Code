@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/SanketKumarKar/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/SanketKumarKar/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/SanketKumarKar/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SanketKumarKar/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SanketKumarKar/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanketKumarKar/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -406,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SanketKumarKar/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
