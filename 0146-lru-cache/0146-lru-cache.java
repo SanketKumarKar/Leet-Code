@@ -19,7 +19,7 @@ class LRUCache {
         capacity = cap;
         map = new HashMap<>();
 
-        // Dummy nodes simplify insertion and deletion
+        // Dummy node for help
         head = new Node(-1, -1);
         tail = new Node(-1, -1);
 
@@ -27,13 +27,13 @@ class LRUCache {
         tail.prev = head;
     }
 
-    // Remove a node from the linked list
+    // Remove 
     private void remove(Node node) {
         node.prev.next = node.next;
         node.next.prev = node.prev;
     }
 
-    // Insert a node at the most recently used position
+    // Insert at end kyuki MRU 
     private void insertAtEnd(Node node) {
         Node last = tail.prev;
 
@@ -44,7 +44,7 @@ class LRUCache {
         tail.prev = node;
     }
 
-    // GET: Return value and mark the key as recently used
+    // GET: get, remove, insert at mru
     public int get(int key) {
         if (!map.containsKey(key)) {
             return -1;
@@ -65,7 +65,7 @@ class LRUCache {
             Node node = map.get(key);
             node.value = value;
 
-            // Mark it as most recently used
+            // MRU
             remove(node);
             insertAtEnd(node);
             return;
@@ -79,7 +79,7 @@ class LRUCache {
             map.remove(lru.key);
         }
 
-        // Insert the new key-value pair
+        // Insert the new key-value
         Node node = new Node(key, value);
 
         map.put(key, node);
