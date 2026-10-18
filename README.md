@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanketKumarKar/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SanketKumarKar/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2784-check-if-array-is-good](https://github.com/SanketKumarKar/Leet-Code/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SanketKumarKar/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SanketKumarKar/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SanketKumarKar/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanketKumarKar/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SanketKumarKar/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SanketKumarKar/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SanketKumarKar/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Tree
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -304,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SanketKumarKar/Leet-Code/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanketKumarKar/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -316,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SanketKumarKar/Leet-Code/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Queue
 |  |
 | ------- |
@@ -408,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SanketKumarKar/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -478,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SanketKumarKar/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bracket Sequences
 |  |
@@ -508,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
 | ------- |
@@ -516,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/SanketKumarKar/Leet-Code/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
