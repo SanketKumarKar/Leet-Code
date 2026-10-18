@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/SanketKumarKar/Leet-Code/tree/master/1108-defanging-an-ip-address) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/SanketKumarKar/Leet-Code/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SanketKumarKar/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/SanketKumarKar/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/SanketKumarKar/Leet-Code/tree/master/0905-sort-array-by-parity) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/SanketKumarKar/Leet-Code/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SanketKumarKar/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -347,10 +349,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SanketKumarKar/Leet-Code/tree/master/0214-shortest-palindrome) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/SanketKumarKar/Leet-Code/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SanketKumarKar/Leet-Code/tree/master/0214-shortest-palindrome) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/SanketKumarKar/Leet-Code/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Counting Sort
 |  |
 | ------- |
@@ -504,4 +508,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/SanketKumarKar/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Manacher
+|  |
+| ------- |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/SanketKumarKar/Leet-Code/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+## Palindromic Tree
+|  |
+| ------- |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/SanketKumarKar/Leet-Code/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 <!---LeetCode Topics End-->
