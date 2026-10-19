@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
+        ///without sorting
+        
         int smaller = 0, equal = 0;
 
         for (int x : nums) {
