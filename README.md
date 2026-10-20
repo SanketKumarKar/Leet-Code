@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/SanketKumarKar/Leet-Code/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SanketKumarKar/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/SanketKumarKar/Leet-Code/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SanketKumarKar/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SanketKumarKar/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/SanketKumarKar/Leet-Code/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SanketKumarKar/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/SanketKumarKar/Leet-Code/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SanketKumarKar/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/SanketKumarKar/Leet-Code/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/SanketKumarKar/Leet-Code/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3886-sum-of-sortable-integers](https://github.com/SanketKumarKar/Leet-Code/tree/master/3886-sum-of-sortable-integers) |
 ## Union-Find
 |  |
 | ------- |
