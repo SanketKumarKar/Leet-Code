@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SanketKumarKar/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2784-check-if-array-is-good](https://github.com/SanketKumarKar/Leet-Code/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SanketKumarKar/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SanketKumarKar/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/SanketKumarKar/Leet-Code/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3903-smallest-stable-index-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SanketKumarKar/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0136-single-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SanketKumarKar/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Counting
 |  |
 | ------- |
