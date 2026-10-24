@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/SanketKumarKar/Leet-Code/tree/master/0274-h-index) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanketKumarKar/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/SanketKumarKar/Leet-Code/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SanketKumarKar/Leet-Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SanketKumarKar/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/SanketKumarKar/Leet-Code/tree/master/0611-valid-triangle-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SanketKumarKar/Leet-Code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SanketKumarKar/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SanketKumarKar/Leet-Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SanketKumarKar/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -454,11 +456,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SanketKumarKar/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketKumarKar/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanketKumarKar/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/SanketKumarKar/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanketKumarKar/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
