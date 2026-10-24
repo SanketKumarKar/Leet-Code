@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanketKumarKar/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SanketKumarKar/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SanketKumarKar/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/SanketKumarKar/Leet-Code/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SanketKumarKar/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/SanketKumarKar/Leet-Code/tree/master/3886-sum-of-sortable-integers) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/SanketKumarKar/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/SanketKumarKar/Leet-Code/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SanketKumarKar/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/SanketKumarKar/Leet-Code/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
 | ------- |
